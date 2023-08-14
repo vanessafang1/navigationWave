@@ -16,7 +16,7 @@ struct ContentView: View {
             
                 
                 NavigationLink(destination: hiphop()) {
-                    Text("Hiphop")
+                    Text("Hiphop123")
                 }
                 
                
